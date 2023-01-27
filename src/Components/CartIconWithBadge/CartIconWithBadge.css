@@ -1,0 +1,21 @@
+.icon-wrapper {
+  position: relative;
+  float: left;
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  text-align: center;
+  /* vertical-align: middle; */
+}
+
+.badge {
+  color: black;
+  position: absolute;
+  top: 4px;
+  right: 8px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background: rgb(255, 154, 39);
+}
